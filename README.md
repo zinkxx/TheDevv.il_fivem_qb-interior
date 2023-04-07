@@ -11,7 +11,7 @@ Then put it in the [qb] file under the /Resources folder.
 # qb-interior
 
 <p align="center">
-  <img  width="900" height="400" src="https://imgur.com/t6crf4c.png">
+  <img  width="1010" height="400" src="https://imgur.com/t6crf4c.png">
 </p>
 
 # The Devv.il
