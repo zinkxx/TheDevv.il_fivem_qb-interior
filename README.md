@@ -10,7 +10,7 @@ Then put it in the [qb] file under the /Resources folder.
 
 # qb-interior
 
-- [qb-interior](https://github.com/qbcore-framework/qb-interior)
+! (https://imgur.com/t6crf4c.png)
 
 
 # The Devv.il
